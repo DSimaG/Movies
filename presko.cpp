@@ -16,6 +16,7 @@ int main()
 
     //la li la le lo
 
+    //flusha
 
     //practise 
     return 0;    
